@@ -1,3 +1,4 @@
+# Installation
 pip install torch torchaudio faster-whisper pyannote.audio pydub numpy
 
 # MAC
